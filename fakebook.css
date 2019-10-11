@@ -1,0 +1,14 @@
+body {
+    background-color: peachpuff;
+}
+h1 {
+    color: darkred;
+}
+img {
+  border: 3px darkred dotted;
+    padding: 2px;
+}
+.category {
+    font-family: "comic sans MS";
+    font-size: 1em
+}
